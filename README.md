@@ -8,7 +8,7 @@ IP-Tracer is used to track an ip address. IP-Tracer is developed for linux and a
 </p>
 <br><br>
 
-# How to install IP-Tracer ?
+# How to <a href="https://www.learntermux.tech/2020/02/how-to-install-ip-tracer-in-termux.html">install</a> IP-Tracer ?
 
 * `apt update`
 
